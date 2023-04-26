@@ -1,27 +1,24 @@
 {
-	"tasks": [{
+	"cars": [{
 			"id": 1,
-			"title": "Task 1",
-			"description": "Description for Task 1 ",
-			"location": "Valletta",
-			"date": "1 st of Jan",
-			"time": "12.00"
+			"make": "Volvo",
+			"model": "xc40",
+			"price": "20000",
+			"fuelType": "Diesel",
+			"Clour": "Grey",
+			"mileage": "55000",
+			"manual": "true"
 		},
 		{
 			"id": 2,
-			"title": "Task 2",
-			"description": "Description for Task 2",
-			"location": "Valletta",
-			"date": "1 st of Jan",
-			"time": "12.00"
-		},
-		{
-			"id": 3,
-			"title": "Task 3",
-			"description": "Description for Task 3",
-			"location": "Valletta",
-			"date": "1 st of Jan",
-			"time": "12.00"
+			"make": "BMW",
+			"model": "Series 1",
+			"price": "15000",
+			"fuelType": "Petrol",
+			"Clour": "White",
+			"mileage": "85000",
+			"manual": "false"
 		}
+		
 	]
 }
